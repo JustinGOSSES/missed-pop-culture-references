@@ -62,3 +62,7 @@ Scott pilgram saves tge world girl with streak in
 	
 - Didn't fully understand suggestion to reply with a "Wrath of Khan" gif to someone who was displeasing. This was in reference to the 1981 Star Trek movie "Wrath of Khan" and in particular a scene where Captain Kirk yells in anger with a famously unpleasant look on his face. https://www.reddit.com/r/nasa/comments/8c26ky/nasa_break_room_problems_are_different_than_most/  and https://giphy.com/gifs/star-trek-james-t-kirk-ii-the-wrath-of-khan-5U4uFSd7JDsQ
 
+- The reference to "Will it blend" in this google advertisement of a new data source blending feature in data studio program was messed. "Will it blend" was a tag line used on a viral series of youtube videos advertising an "extreme" blender by blendtec - http://www.willitblend.com/. The host would throw crazy silly things into the blender and shout, "will it blend". The answer was usually yes. https://twitter.com/googleanalytics/status/1017097810557235200
+
+
+
